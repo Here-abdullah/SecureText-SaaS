@@ -9,6 +9,7 @@ USERS = {
     "admin": "password123",
     "student1": "muet2026",
     "abdullah": "cybersecure"
+    "customer": "123"
 }
 
 @app.route('/')
